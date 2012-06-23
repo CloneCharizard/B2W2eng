@@ -1,12 +1,12 @@
-USE
-TRASH
-REGISTER
-GIVE
+Use
+Trash
+Register
+Give
 タグをみる
-けってい
-おりる
-もどる
-やめる
+Confirm
+Walk
+Back
+Cancel
 みせる
 ダミー
 キャンセル
@@ -14,11 +14,11 @@ GIVE
 メール
 あずかる
 あずける
-みる
-なし
+Check
+No
 かいじょ
-？？？
-？？？？？
+???
+?????
 ／
 \xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
 ―
@@ -26,11 +26,11 @@ GIVE
 ―――
 ♂
 ♀
-Ｌｖ．
-Ｎｏ
+Lv.
+No
 ＋
 →
-ＩＤＮｏ
+ID No.
 　
 カーソル
 まえに　もどります！
@@ -41,55 +41,55 @@ GIVE
 のみ
 \xf000ȃ\x0001\x0000まい
 とじる
-\xf000ĉ\x0001\x0000を　どうしますか？
+\xf000ĉ\x0001\x0000 is selected.
 ここで　メールを\xfffeかくことは　できません！
 ポケモンが　いませんよ！
 \xf000ĉ\x0001\x0000を　いどうさせます
-\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
+The \xf000ĉ\x0001\x0000 can't be held.
 ここでは　\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
 \xf000ĉ\x0001\x0000を\xfffeいくつ　あずけますか？
 \xf000ĉ\x0001\x0000を\xfffe\xf000ȁ\x0001\x0001コ　あずけました
 これいじょう　あずけられません！
 これは　たいせつなもの　なので\xfffeすてることが　できません！
-\xf000ĉ\x0001\x0000を　いくつ　すてますか？
-\xf000ĉ\x0001\x0000を\xfffe\xf000Ȃ\x0001\x0001コ　すてました
-\xf000ĉ\x0001\x0000を\xfffe\xf000Ȃ\x0001\x0001コ　すてても　よろしいですか？
-アララギの　ことば……\xfffe\xf000Ā\x0001\x0000！　こういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-ここでは　おりられない！
-アララギの　ことば……\xfffe\xf000Ā\x0001\x0000！　こういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
+Throw away how many\xfffe\xf000ĉ\x0001\x0000?
+Threw away \xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
+Is it OK to throw away\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
+Juniper's words echoed...\xfffe\xf000Ā\x0001\x0000! There's a time and\xf000븀\x0000\xfffeplace for everything! But not now.
+You can't dismount your Bike here.
+Juniper's words echoed...\xfffe\xf000Ā\x0001\x0000! There's a time and\xf000븀\x0000\xfffeplace for everything! But not now.
 あなたの　コイン　\xf000Ȅ\x0001\x0000まい
-わざマシンを　きどうした！
-ひでんマシンを　きどうした！
-なかには　\xf000ć\x0001\x0000が\xfffeきろく　されていた！\xf000븁\x0000\xfffe\xf000ć\x0001\x0000を\xfffeポケモンに　おぼえさせますか？
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！
-まだ　まえに　つかった\xfffeスプレーの　こうかが　のこってます！
+Booted up a TM.
+Booted up an HM.
+It contained\xfffe\xf000ć\x0001\x0000.\xf000븁\x0000\xfffeTeach \xf000ć\x0001\x0000\xfffeto a Pokémon?
+\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
+Since a Repel's effects still linger,\xfffeyou can't use this now.
 \xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！\xf000븁\x0000\xfffeポケモンと\xfffeそうぐう　しやすくなった！
 \xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！\xf000븁\x0000\xfffeポケモンと\xfffeそうぐう　しにくくなった！
 ボックスが　いっぱい　です！
 こなの　りょう　\xf000ȃ\x0001\x0000
-\xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
-Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
-\xf000봂\x0000ひでん\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+\xf000봂\x0000No.\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+No\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
+\xf000봂\x0000Hidden\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 きのみのこな
 ポケモンのふえを　ふいた！\xfffeうーん！　すばらしい　ねいろだ！
 ポケモンのふえを　ふいた！
 ふえのねを　きいた\xfffeポケモンは　めを　さました
 いどう
-\xf000ĉ\x0001\x0000を\xfffeかいとることは　できません
-\xf000ĉ\x0001\x0000を\xfffeいくつ　うりますか？
-それなら　\xf000Ȇ\x0001\x0000円で\xfffeおひきとり　いたしましょう
-\xf000ĉ\x0001\x0000を　わたして\xfffe\xf000Ȇ\x0001\x0001円を　うけとった
-おこづかい
-\xf000Ȇ\x0001\x0000円
-×\xf000ȁ\x0001\x0000
-＋\xf000Ȇ\x0001\x0000円
+\xf000ĉ\x0001\x0000? Oh, no.\xfffeI can't buy that.
+\xf000ĉ\x0001\x0000? \xfffeHow many will you sell?
+I can pay $\xf000Ȇ\x0001\x0000.\xfffeWould that be OK?
+Turned over the \xf000ĉ\x0001\x0000\xfffeand received $\xf000Ȇ\x0001\x0001.
+Money
+$\xf000Ȇ\x0001\x0000
+x\xf000ȁ\x0001\x0000
++$\xf000Ȇ\x0001\x0000
 Yes
 No
 うる
 ×\xf000Ȃ\x0001\x0000
 とりだす
-ＰＰ
-いりょく
+PP
+Power
 めいちゅう
 ぶんるい
 \xf000ȁ\x0001\x0000
@@ -129,14 +129,14 @@ No
 たいせつなもの　ポケット\xfffeぼうけんに　なくてはならない\xfffeどうぐを　いれます
 とめる
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
 Yes
 No
 \xf000봂\x0000\xf000ĉ\x0001\x0000
-もっていません
+It's empty.
 ダークストーンを　つかったが\xfffeまったく　はんのう　しない……
 ライトストーンを　つかったが\xfffeまったく　はんのう　しない……
-もちものを　せいり　しました！
+Items have been sorted!
 \xf000Ē\x0001\x0000
 しゅるいじゅんに\xfffeもちものを　せいり　しました！
 なまえじゅんに\xfffeもちものを　せいり　しました！
